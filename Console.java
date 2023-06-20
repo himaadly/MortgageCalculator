@@ -1,5 +1,3 @@
-package com.codewithmosh;
-
 import java.util.Scanner;
 
 public class Console {
